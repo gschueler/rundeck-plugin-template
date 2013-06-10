@@ -2,7 +2,9 @@
 
 This directory contains a skeleton project to create a Rundeck Plugin.
 
-View the [Rundeck Development Guide - Java] for more information about developing Rundeck Plugins.
+View the [Rundeck Development Guide - Plugin Development - Java Plugin Development](http://rundeck.org/docs/developer/plugin-development.html#java-plugin-development) for more information about developing Rundeck Plugins in Java.
+
+See also: [Rundeck Development Guide](http://rundeck.org/docs/developer/) for more information about plugin development in general.
 
 ## Customizing
 
